@@ -29,5 +29,5 @@ return array (
   'Delivery servers' => 'Teslimat sunucuları',
   'Templates' => 'Şablonlar',
   'Are you sure you want to remove all suppressed emails?' => 'Tüm bastırılmış e-postaları kaldırmak istediğinizden emin misiniz?',
-  'Are you sure you want to remove all suppressed IPs?' => 'Tüm bastırılmış IP'leri kaldırmak istediğinizden emin misiniz?',
+  'Are you sure you want to remove all suppressed IPs?' => 'Tüm bastırılmış IP\'leri kaldırmak istediğinizden emin misiniz?',
 );

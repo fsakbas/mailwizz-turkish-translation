@@ -33,7 +33,7 @@ return array (
   'A new API access has been added:<br />Public key: {public} <br />Private key: {private}' => 'Yeni bir API erişimi eklendi:<br />Genel anahtar: {public} <br />Özel anahtar: {private}',
   'Update api keys' => 'API anahtarlarını güncelle',
   'Requested API access has been successfully removed!' => 'İstenen API erişimi başarıyla kaldırıldı!',
-  'Your API url is: {url}' => 'API URL'niz: {url}',
+  'Your API url is: {url}' => 'API URL\'niz: {url}',
   'Api key' => 'API anahtarı',
   'A new API access has been added:<br />Key: {key}' => 'Yeni bir API erişimi eklendi:<br />Anahtar: {key}',
   'Enable permissions' => 'İzinleri etkinleştir',
